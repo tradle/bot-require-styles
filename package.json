@@ -1,0 +1,24 @@
+{
+  "name": "@tradle/bot-require-styles",
+  "version": "1.0.1",
+  "description": "make sure your users are up to date with your latest styles",
+  "main": "index.js",
+  "repository": {},
+  "author": "mvayngrib",
+  "license": "MIT",
+  "dependencies": {
+    "@tradle/bot-keep-fresh": "https://github.com/tradle//bot-keep-fresh",
+    "xtend": "^4.0.1"
+  },
+  "devDependencies": {
+    "tape": "^4.6.3"
+  },
+  "scripts": {
+    "lint": "eslint --quiet ."
+  },
+  "keywords": [
+    "bot",
+    "tradle",
+    "styles"
+  ]
+}
