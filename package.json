@@ -3,7 +3,10 @@
   "version": "1.0.1",
   "description": "make sure your users are up to date with your latest styles",
   "main": "index.js",
-  "repository": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tradle/bot-require-styles"
+  },
   "author": "mvayngrib",
   "license": "MIT",
   "dependencies": {
