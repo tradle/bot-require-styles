@@ -7,7 +7,7 @@
   "author": "mvayngrib",
   "license": "MIT",
   "dependencies": {
-    "@tradle/bot-keep-fresh": "https://github.com/tradle//bot-keep-fresh",
+    "@tradle/bot-keep-fresh": "^1",
     "xtend": "^4.0.1"
   },
   "devDependencies": {
@@ -20,5 +20,6 @@
     "bot",
     "tradle",
     "styles"
-  ]
+  ],
+  "peerDependencies": {}
 }
